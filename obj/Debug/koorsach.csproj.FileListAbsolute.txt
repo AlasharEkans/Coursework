@@ -1,0 +1,9 @@
+C:\Users\Home-PC\source\repos\koorsach\bin\Debug\koorsach.exe.config
+C:\Users\Home-PC\source\repos\koorsach\bin\Debug\koorsach.exe
+C:\Users\Home-PC\source\repos\koorsach\bin\Debug\koorsach.pdb
+C:\Users\Home-PC\source\repos\koorsach\obj\Debug\koorsach.csproj.AssemblyReference.cache
+C:\Users\Home-PC\source\repos\koorsach\obj\Debug\koorsach.Properties.Resources.resources
+C:\Users\Home-PC\source\repos\koorsach\obj\Debug\koorsach.csproj.GenerateResource.cache
+C:\Users\Home-PC\source\repos\koorsach\obj\Debug\koorsach.csproj.CoreCompileInputs.cache
+C:\Users\Home-PC\source\repos\koorsach\obj\Debug\koorsach.exe
+C:\Users\Home-PC\source\repos\koorsach\obj\Debug\koorsach.pdb
